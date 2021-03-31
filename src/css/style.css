@@ -70,16 +70,16 @@ body {
   margin-right: 25px; }
 
 /***** FOOTER ******/
-footer {
+.attribution {
   background-color: #502050;
   opacity: 0.5;
-  padding: 20px 0 0 0;
+  padding: 20px 0;
   font-size: .8rem;
   color: white;
   text-align: center; }
-  footer a {
+  .attribution a {
     color: #f7f2f7; }
-    footer a:hover {
+    .attribution a:hover {
       color: #937b92;
       text-decoration: none; }
 
